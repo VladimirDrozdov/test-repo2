@@ -1,5 +1,5 @@
 Hola, mundo!
-master was here
-
+1.
+2.
 Здесь был Петя.
 Здесь был Вася!
